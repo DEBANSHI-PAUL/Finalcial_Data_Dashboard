@@ -1,0 +1,50 @@
+Year,Quarter,AccountType,Account,Amount
+2022,Q1,Income Statement,Revenue,250000
+2022,Q1,Income Statement,Cost of Goods Sold,120000
+2022,Q1,Income Statement,Operating Expenses,50000
+2022,Q1,Income Statement,Net Income,80000
+2022,Q1,Balance Sheet,Assets,600000
+2022,Q1,Balance Sheet,Liabilities,250000
+2022,Q1,Balance Sheet,Equity,350000
+2022,Q2,Income Statement,Revenue,270000
+2022,Q2,Income Statement,Cost of Goods Sold,130000
+2022,Q2,Income Statement,Operating Expenses,52000
+2022,Q2,Income Statement,Net Income,88000
+2022,Q2,Balance Sheet,Assets,620000
+2022,Q2,Balance Sheet,Liabilities,260000
+2022,Q2,Balance Sheet,Equity,360000
+2022,Q3,Income Statement,Revenue,290000
+2022,Q3,Income Statement,Cost of Goods Sold,140000
+2022,Q3,Income Statement,Operating Expenses,55000
+2022,Q3,Income Statement,Net Income,95000
+2022,Q3,Balance Sheet,Assets,640000
+2022,Q3,Balance Sheet,Liabilities,270000
+2022,Q3,Balance Sheet,Equity,370000
+2022,Q4,Income Statement,Revenue,300000
+2022,Q4,Income Statement,Cost of Goods Sold,150000
+2022,Q4,Income Statement,Operating Expenses,56000
+2022,Q4,Income Statement,Net Income,94000
+2022,Q4,Balance Sheet,Assets,650000
+2022,Q4,Balance Sheet,Liabilities,280000
+2022,Q4,Balance Sheet,Equity,370000
+2023,Q1,Income Statement,Revenue,320000
+2023,Q1,Income Statement,Cost of Goods Sold,160000
+2023,Q1,Income Statement,Operating Expenses,57000
+2023,Q1,Income Statement,Net Income,103000
+2023,Q1,Balance Sheet,Assets,670000
+2023,Q1,Balance Sheet,Liabilities,285000
+2023,Q1,Balance Sheet,Equity,385000
+2023,Q2,Income Statement,Revenue,330000
+2023,Q2,Income Statement,Cost of Goods Sold,165000
+2023,Q2,Income Statement,Operating Expenses,59000
+2023,Q2,Income Statement,Net Income,106000
+2023,Q2,Balance Sheet,Assets,680000
+2023,Q2,Balance Sheet,Liabilities,290000
+2023,Q2,Balance Sheet,Equity,390000
+2023,Q3,Income Statement,Revenue,350000
+2023,Q3,Income Statement,Cost of Goods Sold,170000
+2023,Q3,Income Statement,Operating Expenses,60000
+2023,Q3,Income Statement,Net Income,120000
+2023,Q3,Balance Sheet,Assets,700000
+2023,Q3,Balance Sheet,Liabilities,295000
+2023,Q3,Balance Sheet,Equity,405000
